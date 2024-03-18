@@ -1,0 +1,6 @@
+speed = int(input("Input Speed: ")) #takes Speed
+time = int(input("Input Time: ")) #takes Time
+
+distance = speed * time #does some simple calculations
+
+print("The distance covered is:", distance) #spits back out the final answer
