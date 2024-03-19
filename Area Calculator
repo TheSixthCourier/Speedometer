@@ -1,0 +1,7 @@
+#definition
+def rectangle(length, width):
+    area = length*width
+    print(area)
+   
+#call
+rectangle(10,5)
